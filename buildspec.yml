@@ -3,7 +3,7 @@ version: 0.2
 env:
   variables:
     REPOSITORY_NAME: cuecard-google-bot
-    ECR_REPO: 278846445249.dkr.ecr.us-east-2.amazonaws.com
+    ECR_REPO: 569527186423.dkr.ecr.eu-central-1.amazonaws.com
 
 phases:
   pre_build:
